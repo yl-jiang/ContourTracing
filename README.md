@@ -1,4 +1,4 @@
-* Implement of ```A linear-time component-labeling algorithm using contour tracing technique``` *
+### Implement of ```A linear-time component-labeling algorithm using contour tracing technique```
 
 ![](result/simple.png)
 ![](result/lines.png)
