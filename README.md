@@ -5,6 +5,7 @@
 ![](result/dummy.png)
 ![](result/labyrinth.png)
 ![](result/diffract.png)
+![](result/checker.png)
 
 ---
 
