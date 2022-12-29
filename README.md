@@ -1,4 +1,4 @@
-### Implement of ```A linear-time component-labeling algorithm using contour tracing technique```
+Python implement of paper 'A linear-time component-labeling algorithm using contour tracing technique'
 
 ![](result/simple.png)
 ![](result/lines.png)
